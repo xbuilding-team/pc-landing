@@ -187,11 +187,13 @@ body {
 .features__item-title-wrap {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   margin-bottom: 34px;
 }
 
 .features__item-number {
+  margin: 0;
+  margin-top: 3px;
   font-size: 12px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
