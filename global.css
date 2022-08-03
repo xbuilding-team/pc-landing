@@ -169,7 +169,8 @@ body {
 }
 
 .features__list-item {
-  margin-left: 80px;
+  margin-left: 40px;
+  width: 100%;
 }
 
 .features__list .features__list-item:first-of-type {
@@ -177,7 +178,7 @@ body {
 }
 
 .features__item {
-  padding: 30px 18px 26px;
+  padding: 30px 20px 26px;
   background: var(--darkBg);
   border: 1px solid var(--lightBg);
   border-radius: 16px;
